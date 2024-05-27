@@ -10,3 +10,5 @@ console.log(arrThree);
 const arrFour = arrThree.join(" and the next value is.. ");
 console.log(arrFour);
 console.log(typeof arrFour);
+
+let palandrome = "racecar";

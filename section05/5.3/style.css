@@ -1,0 +1,44 @@
+body {
+  background-image: url(https://image.api.playstation.com/vulcan/ap/rnd/202104/1423/zfFB85tBPxhTLmVdd5dhnS3T.jpg);
+ background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
+/* .screen {
+  position: absolute;
+  top: 0;
+  left: 0;
+width: 100%;
+height: 100%;
+background-color: rgba(100,100,100, .5);
+z-index: -1; */
+
+}
+
+
+div {
+  color: brown;
+}
+
+.section {
+  color: green
+}
+
+#main {
+  color: purple
+}
+
+footer {
+  color: antiquewhite;
+}
+/* :root "This is a GLOBAL selector" */
+
+.nav-links>li {
+  display: inline;
+  margin: 1rem;
+  padding: .5rem;
+  border-radius: .5rem;
+  background-color: grey;
+
+}
